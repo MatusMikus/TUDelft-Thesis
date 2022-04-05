@@ -7,7 +7,7 @@ Use `full_pipeline_prep_simple.sh` to download the reference and individual geno
 Use `alignment.sh` in conjunction with the above script to align reads that span multiple files.\
 Use `full_pipeline_deepvariant.sh`, `full_pipeline_pbsv.sh`, `full_pipeline_sniffles.sh` for each individual algorithm, setting the GENOME_ID variable for individual genomes.\
 the remaining scripts were used for creation of intermediate files and analysis.\
-\
+`analysis.R` was used to create statistics
 
 Data repositories:\
 `https://github.com/genome-in-a-bottle/giab_data_indexes`\

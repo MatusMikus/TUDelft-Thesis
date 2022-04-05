@@ -1,0 +1,11 @@
+pbsv_variants_filtered
+repeats
+8245
+gaps
+8
+centromeres
+8
+coding
+5673
+non-coding
+4405

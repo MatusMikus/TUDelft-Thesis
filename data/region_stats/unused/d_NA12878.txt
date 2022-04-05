@@ -1,0 +1,11 @@
+deepvariant_variants_nosnp_chr_10p
+repeats
+10809
+gaps
+0
+centromeres
+12
+coding
+7293
+non-coding
+5753

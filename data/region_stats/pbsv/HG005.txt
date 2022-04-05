@@ -1,0 +1,11 @@
+pbsv_variants_filtered
+repeats
+0
+gaps
+0
+centromeres
+0
+coding
+0
+non-coding
+0

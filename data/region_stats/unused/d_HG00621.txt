@@ -1,0 +1,11 @@
+deepvariant_variants_filtered
+repeats
+11201
+gaps
+0
+centromeres
+14
+coding
+7573
+non-coding
+5892

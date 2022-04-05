@@ -1,0 +1,11 @@
+sniffles_variants_filtered
+repeats
+7333
+gaps
+7
+centromeres
+6
+coding
+5102
+non-coding
+4137
